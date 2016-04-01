@@ -2,15 +2,15 @@
 
 **NOTE: The assignments, files or any instructions included are on *Croatian*!**
 
-Here are a few  assignements I had in college from the course *Spatial databases*.
+Here are a few  assignments I had in college from the course *Spatial databases*.
 
 **If you have any questions please feel free to ask!**
 
 ##Files
 
-In the folder *podaci_ispit* are spatial files necessary for solving the assignements in the folder *zad*.
+In the folder *podaci_ispit* are spatial files necessary for solving the assignments in the folder *zad*.
 
-The assignements are only solvable with [**shapely**](http://toblerity.org/shapely/manual.html) and [**matplotlib**](http://matplotlib.org/).
+The assignments are only solvable with [**shapely**](http://toblerity.org/shapely/manual.html) and [**matplotlib**](http://matplotlib.org/).
 
 
 ##External links
