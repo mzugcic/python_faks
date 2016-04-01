@@ -4,6 +4,8 @@
 
 Here are a few  assignements I had in college from the course *Spatial databases*.
 
+**If you have any questions please feel free to ask!**
+
 ##Files
 
 In the folder *podaci_ispit* are spatial files necessary for solving the assignements in the folder *zad*.
@@ -14,3 +16,4 @@ The assignements are only solvable with [**shapely**](http://toblerity.org/shape
 ##External links
 * [matplotlib tutorial](https://pythonprogramming.net/matplotlib-python-3-basics-tutorial/)
 * [shapely tutorial](https://github.com/Toblerity/Shapely)
+
