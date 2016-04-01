@@ -8,7 +8,7 @@ Here are a few  assignements I had in college from the course *Spatial databases
 
 In the folder *podaci_ispit* are spatial files necessary for solving the assignements in the folder *zad*.
 
-The assignements are only solvable with [**shapely**](http://toblerity.org/shapely/manual.html) and [**matplolib**](http://matplotlib.org/).
+The assignements are only solvable with [**shapely**](http://toblerity.org/shapely/manual.html) and [**matplotlib**](http://matplotlib.org/).
 
 
 ##External links
